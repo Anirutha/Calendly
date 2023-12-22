@@ -7,7 +7,7 @@ HTML | CSS | JavaScript |
 ## It is a collaborative project
 
 # Deployed Link
-https://enchanting-profiterole-23dc48.netlify.app/
+https://master--aesthetic-lollipop-7690e7.netlify.app/
 
 # Home-Page
 
